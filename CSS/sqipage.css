@@ -52,7 +52,7 @@ ul .icon1{
  .image-box {
     height: 100vh;   
     width: 100%;     
-    background-image:linear-gradient(to top, rgba(0, 0, 91, 0.788), rgba(165, 42, 42, 0.492)), url(./Images/Exec-class-scaled.jpg);
+    background-image:linear-gradient(to top, rgba(0, 0, 91, 0.788), rgba(165, 42, 42, 0.492)), url(Images/Exec-class-scaled.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;

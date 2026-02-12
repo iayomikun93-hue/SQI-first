@@ -1,0 +1,82 @@
+*{
+    font-family: sans-serif;
+    list-style: none;
+}
+
+nav{
+    position: relative;
+    margin-top: 20px;
+}
+
+.nav-items{
+    display: flex;
+    margin-left: 35%;
+    gap: 20px;
+}
+
+.mega-box{
+    position: absolute;
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    border-radius: 10px;
+    box-shadow:-17px 17px 34px #949494, 17px -17px 34px #ffffff;
+    left: 0%;
+}
+
+.left-box{
+    position: absolute;
+    /* padding: 20px; */
+    background-color: rgb(248, 250, 253);
+    border-radius: 10px;
+    height: 600px;
+    width: 220px;
+}
+
+
+.left-side-con a{
+color: rgb(4, 0, 53);
+
+}
+
+.left-side-con{
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.mega-box li{
+    padding: 15px;
+}
+
+.left-box li :hover {
+    border-radius: 10px;
+    background-color: rgb(176, 168, 255);
+    padding: 10px;
+}
+
+.fintech{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 45%;
+}
+
+.fintech-icon img{
+    position: absolute;
+    width: 20%;
+    margin-right: 50%;
+    right: 100px;
+    top: 20px;
+}
+
+.fintech-txt  h3{
+    font-size: 15px;
+}
+
+.fintech-txt  p{
+    font-size: 13px;
+}
+
+.fintech-txt{
+    margin-left: 35px;
+}
+
